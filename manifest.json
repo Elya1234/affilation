@@ -1,6 +1,6 @@
 {
-    "name": "cours-box",
-    "short_name": "Torah-cours",
+    "name": "pacpomme",
+    "short_name": "pacpomme",
     "lang": "fr",
     "start_url": "./index.html",
     "display": "standalone",
