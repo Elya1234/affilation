@@ -1,0 +1,41 @@
+{
+    "name": "cours-box",
+    "short_name": "Torah-cours",
+    "lang": "fr",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "black",
+    "theme_color": "black",
+    "icons": [
+        {
+            "src": "im.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": ".im.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "im.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "im.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "im.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "im.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
